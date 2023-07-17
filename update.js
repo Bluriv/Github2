@@ -1,0 +1,1 @@
+console.log("Index has been successfully updated!");
